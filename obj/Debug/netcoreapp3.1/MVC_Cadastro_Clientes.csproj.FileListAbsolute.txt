@@ -1,0 +1,13 @@
+C:\xampp\htdocs\programacao\c#\Console_2021\MVC_Cadastro_Clientes\bin\Debug\netcoreapp3.1\MVC_Cadastro_Clientes.exe
+C:\xampp\htdocs\programacao\c#\Console_2021\MVC_Cadastro_Clientes\bin\Debug\netcoreapp3.1\MVC_Cadastro_Clientes.deps.json
+C:\xampp\htdocs\programacao\c#\Console_2021\MVC_Cadastro_Clientes\bin\Debug\netcoreapp3.1\MVC_Cadastro_Clientes.runtimeconfig.json
+C:\xampp\htdocs\programacao\c#\Console_2021\MVC_Cadastro_Clientes\bin\Debug\netcoreapp3.1\MVC_Cadastro_Clientes.runtimeconfig.dev.json
+C:\xampp\htdocs\programacao\c#\Console_2021\MVC_Cadastro_Clientes\bin\Debug\netcoreapp3.1\MVC_Cadastro_Clientes.dll
+C:\xampp\htdocs\programacao\c#\Console_2021\MVC_Cadastro_Clientes\bin\Debug\netcoreapp3.1\MVC_Cadastro_Clientes.pdb
+C:\xampp\htdocs\programacao\c#\Console_2021\MVC_Cadastro_Clientes\obj\Debug\netcoreapp3.1\MVC_Cadastro_Clientes.csprojAssemblyReference.cache
+C:\xampp\htdocs\programacao\c#\Console_2021\MVC_Cadastro_Clientes\obj\Debug\netcoreapp3.1\MVC_Cadastro_Clientes.AssemblyInfoInputs.cache
+C:\xampp\htdocs\programacao\c#\Console_2021\MVC_Cadastro_Clientes\obj\Debug\netcoreapp3.1\MVC_Cadastro_Clientes.AssemblyInfo.cs
+C:\xampp\htdocs\programacao\c#\Console_2021\MVC_Cadastro_Clientes\obj\Debug\netcoreapp3.1\MVC_Cadastro_Clientes.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\programacao\c#\Console_2021\MVC_Cadastro_Clientes\obj\Debug\netcoreapp3.1\MVC_Cadastro_Clientes.dll
+C:\xampp\htdocs\programacao\c#\Console_2021\MVC_Cadastro_Clientes\obj\Debug\netcoreapp3.1\MVC_Cadastro_Clientes.pdb
+C:\xampp\htdocs\programacao\c#\Console_2021\MVC_Cadastro_Clientes\obj\Debug\netcoreapp3.1\MVC_Cadastro_Clientes.genruntimeconfig.cache
